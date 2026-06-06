@@ -57,7 +57,7 @@ No page refreshes are required, ensuring a seamless and uninterrupted user exper
 
 ## 📸 Preview
 
-<img width="800" alt="Tic Tac Toe Preview" src="YOUR_SCREENSHOT_LINK_HERE">
+<img width="800" alt="Tic Tac Toe Preview" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000002350720693efbbc1403b9e86&ts=494660&p=fs&cid=1&sig=4fab46e8e2aae8ef662a54982a97c22045132096deb8cd0889005c4f844648a6&v=0)" />
 
 ---
 
@@ -87,7 +87,7 @@ tic-tac-toe/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/vanshgupta-git/tic-tac-toe.git
 ```
 
 ### Navigate to Project Folder
@@ -110,7 +110,7 @@ in your preferred browser.
 
 ## 🎮 How To Play
 
-1. Player **X** starts the game.
+1. Player **O** starts the game.
 2. Players take turns selecting an empty box.
 3. The first player to align three marks horizontally, vertically, or diagonally wins.
 4. If all boxes are filled and no winner is found, the match ends in a draw.
@@ -203,8 +203,8 @@ See `LICENSE` for more information.
 
 **Vansh Gupta**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/vanshgupta-git
+- LinkedIn: https://linkedin.com/in/vanshgupta-in
 
 ---
 
