@@ -55,12 +55,6 @@ No page refreshes are required, ensuring a seamless and uninterrupted user exper
 
 ---
 
-## 📸 Preview
-
-<img width="800" alt="Tic Tac Toe Preview" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000002350720693efbbc1403b9e86&ts=494660&p=fs&cid=1&sig=4fab46e8e2aae8ef662a54982a97c22045132096deb8cd0889005c4f844648a6&v=0)" />
-
----
-
 ## 🛠️ Built With
 
 - HTML5
